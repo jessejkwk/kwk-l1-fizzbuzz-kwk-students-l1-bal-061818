@@ -9,6 +9,7 @@
           puts "FizzBuzz"
       else
           puts "busy bee"
+      x += 1
       end
     end
   end
